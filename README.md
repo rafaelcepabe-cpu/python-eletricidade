@@ -49,10 +49,14 @@ desenvolvimento em Python.
 ✅ Detecção de falhas elétricas
 ✅ Relatórios exibidos no terminal
 
+
+
+
 ## Tecnologias Utilizadas
 Python
 Biblioteca random
 Biblioteca time
+
 
 
 
