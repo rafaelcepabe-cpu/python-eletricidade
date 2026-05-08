@@ -1,4 +1,4 @@
-## Sistema de Verificação Elétrica ⚡
+# Sistema de Verificação Elétrica ⚡
 Sobre o Projeto
 O Sistema de Verificação Elétrica foi desenvolvido em Python com o objetivo de monitorar e analisar dados elétricos simulados, como tensão e corrente, identificando possíveis falhas na rede elétrica.
 O projeto simula um sistema de monitoramento em tempo real capaz de detectar:
@@ -18,7 +18,7 @@ possíveis quedas de energia.
 
 Além disso, o sistema exibe alertas automáticos no terminal para auxiliar no acompanhamento das condições elétricas.
 
-# Objetivo
+## Objetivo
 O principal objetivo deste projeto foi praticar conceitos de:
 
 
@@ -41,7 +41,7 @@ desenvolvimento em Python.
 
 
 
-# Funcionalidades
+## Funcionalidades
 ✅ Monitoramento de tensão elétrica
 ✅ Monitoramento de corrente elétrica
 ✅ Alertas automáticos
@@ -49,14 +49,14 @@ desenvolvimento em Python.
 ✅ Detecção de falhas elétricas
 ✅ Relatórios exibidos no terminal
 
-# Tecnologias Utilizadas
+## Tecnologias Utilizadas
 Python
 Biblioteca random
 Biblioteca time
 
 
 
-# Como Funciona
+## Como Funciona
 O sistema gera valores aleatórios de tensão e corrente para simular o funcionamento de uma rede elétrica. A partir desses valores, o programa realiza verificações automáticas para identificar situações fora do padrão.
 Exemplos:
 
@@ -71,7 +71,7 @@ Correntes acima de 30A geram alerta de sobrecarga.
 
 
 
-# Aprendizados
+## Aprendizados
 Durante o desenvolvimento deste projeto, foram praticados conceitos importantes como:
 
 
@@ -107,6 +107,6 @@ Dashboard interativo
 
 
 
-# Autor
+## Autor
 Rafael Rodrigues do Espiri
 Estudante de Tecnologia e Análise de Dados 🚀
